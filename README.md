@@ -2,11 +2,11 @@
 <h3 align="center">Passionate about Software and Web Development, I specialize in PHP and JavaScript. I thrive on turning creative ideas into functional and elegant solutions.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RakeWangsa&label=Profile%20views&color=0e75b6&style=flat" alt="RakeWangsa" /> </p>
 
-- 🔭 I’m currently working on [Aplikasi-Kantor-KLF](https://github.com/RakeWangsa/Aplikasi-Kantor-KLF)
+- 🔭 I’m currently working on [KLF-Project-Manager]
 - 🌱 I’m currently learning **Flutter** and **React Native**
 
 - 📫 How to reach me **rakekw28@gmail.com**
-- 👨‍💻 All of my projects are available at **https://rakewangsa.github.io/kodir.github.io/**
+- 👨‍💻 All of my projects are available at **https://owudev.com/**
 
 <div> <a href="https://github.com/RakeWangsa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/rakewangsa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
